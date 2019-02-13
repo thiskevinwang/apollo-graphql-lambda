@@ -14,5 +14,9 @@
     "babel-cli": "^6.26.0",
     "babel-preset-flow": "^6.23.0",
     "flow-bin": "^0.92.1"
+  },
+  "dependencies": {
+    "apollo-server-lambda": "^2.4.0",
+    "graphql": "^14.1.1"
   }
 }
